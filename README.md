@@ -16,13 +16,13 @@
  
 ## 🧑‍💻 About Me
  
-I'm a **1st-year Computer Science & Engineering student** at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/), Taguspark — one of Portugal's most competitive engineering programmes.
+I'm a **2nd-year Computer Science & Engineering student** at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/), Taguspark — one of Portugal's most competitive engineering programmes.
  
-I'm driven by a passion for building things that actually *do* stuff: autonomous robots, AI models from scratch, chess engines, and low-level systems. I love working across the full stack — from **Assembly and C** up to **Python and JavaScript** — and I'm always looking for the next project that pushes my limits.
+I'm driven by a passion for building things that actually *do* stuff: autonomous robots, AI models from scratch, chess engines, and low-level systems. I love working across the full stack, from **Assembly and C** up to **Python and JavaScript**. I'm always looking for the next project that pushes my limits.
  
-- 🎓 **Degree:** LEIC-T @ IST — GPA **16.11 / 20**
-- 🤖 **Currently building:** a Mini-Transformer in RISC-V Assembly
-- 🏛️ **Leadership:** Class delegate + Board member @ [AEIST](https://aeist.pt/) + Vice-Coordinator SF
+- 🎓 **Degree:** LEIC-T @ IST — GPA **15.11 / 20**
+- 🤖 **Currently building:** a GPS system using footage from street cameras
+- 🏛️ **Leadership:** Year delegate + Board member @ [AEIST](https://aeist.pt/) + Vice-Coordinator SF
 - 🏆 **IST Management Challenge 2025/26** — Best of Class
 - 🌍 **Languages:** Portuguese (native) · English B2 · Spanish A2
 ---
@@ -144,9 +144,9 @@ Full clone of *Tomb of the Mask* with trail mechanics, animated traps, procedura
 |------|-------------|
 | 🎖️ Vice-Coordinator SF | AEIST — Associação de Estudantes do IST |
 | 📋 Board Member | AEIST |
-| 🎓 1st-Year Class Delegate | LEIC-T @ IST |
+| 🎓 2nd-Year Year Delegate | LEIC-T @ IST |
 | 🏆 Best of Class | IST Management Challenge 2025/26 |
-| 🎽 Event Organiser | Sports & Talks — Student Sports Association |
+| 🎽 Event Organiser | Sports & Talks — Sports Association |
  
 ---
  
